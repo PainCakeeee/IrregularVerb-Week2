@@ -81,7 +81,7 @@ const WORD_BANK: Word[] = [
   { base: "bite", past: "bit", participle: "bitten", icon: "🦷", stage: 0 },
 ];
 
-const WORD_BANK_VERSION = '2026-03-21-v2';
+const WORD_BANK_VERSION = '2026-03-26-v2-updated';
 
 // --- Custom Hook for Orientation ---
 function useOrientation() {
