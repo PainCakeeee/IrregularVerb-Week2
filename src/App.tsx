@@ -77,6 +77,8 @@ const WORD_BANK: Word[] = [
   { base: "sit", past: "sat", participle: "sat", icon: "🪑", stage: 0 },
   { base: "hold", past: "held", participle: "held", icon: "✋", stage: 0 },
   { base: "speak", past: "spoke", participle: "spoken", icon: "🗣️", stage: 0 },
+  { base: "begin", past: "began", participle: "begun", icon: "🚀", stage: 0 },
+  { base: "bite", past: "bit", participle: "bitten", icon: "🦷", stage: 0 },
 ];
 
 const WORD_BANK_VERSION = '2026-03-21-v2';
